@@ -1,4 +1,4 @@
-Learning Django through Real State Project
+Learning Django through Real Estate Project
 
 
 *Moustafa Elagamey*
